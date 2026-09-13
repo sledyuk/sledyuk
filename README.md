@@ -42,11 +42,11 @@ Review by the core team split the submission into separate tracks:
 
 ## Tools I work with
 
-**Mobile:** React Native, TypeScript, React Navigation, MobX, Expo
-**Web:** React, Next.js
-**Backend:** Node.js, NestJS, Prisma, PostgreSQL, Redis
-**Testing and delivery:** Jest, Maestro, Playwright, GitHub Actions, Docker
-**AI development:** Claude Code, MCP integrations, automated review and testing workflows
+- **Mobile:** React Native, TypeScript, React Navigation, MobX, Expo
+- **Web:** React, Next.js
+- **Backend:** Node.js, NestJS, Prisma, PostgreSQL, Redis
+- **Testing and delivery:** Jest, Maestro, Playwright, GitHub Actions, Docker
+- **AI development:** Claude Code, MCP integrations, automated review and testing workflows
 
 ---
 
