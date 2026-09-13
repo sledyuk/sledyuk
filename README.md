@@ -8,7 +8,7 @@ I'm interested in how software behaves beyond the happy path: authentication, lo
 
 ## DaySync
 
-[DaySync](https://daysync.io) is a booking and business-management product for salons, and the side project where I try out new technologies against the needs of a real application. I build and maintain its mobile applications, web interface, and backend.
+[DaySync](https://daysync.io) is a personal booking and business-management product for salons. I build and maintain its mobile applications, web interface, and backend.
 
 - **Mobile:** bare React Native and TypeScript, released on [iOS](https://apps.apple.com/us/app/daysync-salon-booking/id6473828297) and [Android](https://play.google.com/store/apps/details?id=io.daysync.business).
 - **Web:** React and Next.js.
@@ -32,7 +32,7 @@ My work here includes configuring the tools and repository guidance, breaking ta
 
 ## Open source: Redmine
 
-I submitted an implementation of personal access tokens, scoped permissions, and structured API audit logging to Redmine's API authentication feature request. The patch covers token expiration and hashed storage, compatibility with existing API clients, permission enforcement, and tests, verified against trunk with 61 new passing tests.
+I submitted an implementation of personal access tokens, scoped permissions, and structured API audit logging to Redmine's API authentication feature request. The patch covers token expiration and hashed storage, compatibility with existing API clients, permission enforcement, and tests. The patch added 61 passing tests, with no additional failures compared with the baseline trunk checkout.
 
 Review by the core team split the submission into separate tracks:
 
